@@ -1,267 +1,267 @@
-Year,Team Name,Level of Success
-1995,Boston Red Sox,DS
-1995,Cleveland Indians,WS
-1995,Seattle Mariners,LS
-1995,New York Yankees,DS
-1995,Atlanta Braves,C
-1995,cincinnati Reds,LS
-1995,Los Angeles Dodgers,DS
-1995,Rockies,DS
-1996,New York Yankees,C
-1996,Cleveland Indians,DS
-1996,Texas Rangers,DS
-1996,Baltimore Orioles,LS
-1996,Atlanta Braves,WS
-1996,St. Louis Cardinals,LS
-1996,San Diego Padres,DS
-1996,Los Angeles Dodgers,DS
-1997,Baltimore Orioles,LS
-1997,Cleveland Indians,WS
-1997,Seattle Mariners,DS
-1997,New York Yankees,DS
-1997,Atlanta Braves,LS
-1997,Houston Astros,DS
-1997,San Francisco Giants,DS
-1997,Miami Marlins,C
-1998,New York Yankees,C
-1998,Cleveland Indians,LS
-1998,Texas Rangers,DS
-1998,Boston Red Sox,DS
-1998,Atlanta Braves,LS
-1998,Houston Astros,DS
-1998,San Diego Padres,WS
-1998,Chicago Cubs,DS
-1999,New York Yankees,C
-1999,Cleveland Indians,DS
-1999,Texas Rangers,DS
-1999,Boston Red Sox,LS
-1999,Atlanta Braves,WS
-1999,Arizona Diamondbacks,DS
-1999,Houston Astros,DS
-1999,New York Mets,LS
-2000,Chicago White Sox,DS
-2000,Oakland Athletics,DS
-2000,New York Yankees,C
-2000,Seattle Mariners,LS
-2000,San Francisco Giants,DS
-2000,St. Louis Cardinals,LS
-2000,Atlanta Braves,DS
-2000,New York Mets,WS
-2001,Seattle Mariners,LS
-2001,Cleveland Indians,DS
-2001,New York Yankees,WS
-2001,Oakland Athletics,DS
-2001,Houston Astros,DS
-2001,Arizona Diamondbacks,C
-2001,Atlanta Braves,LS
-2001,St. Louis Cardinals,DS
-2002,New York Yankees,DS
-2002,Oakland Athletics,DS
-2002,Minnesota Twins,LS
-2002,Los Angeles Angels,C
-2002,Atlanta Braves,DS
-2002,Arizona Diamondbacks,DS
-2002,St. Louis Cardinals,LS
-2002,San Francisco Giants,WS
-2003,New York Yankees,WS
-2003,Oakland Athletics,DS
-2003,Minnesota Twins,DS
-2003,Boston Red Sox,LS
-2003,Atlanta Braves,DS
-2003,San Francisco Giants,DS
-2003,Chicago Cubs,LS
-2003,Miami Marlins,C
-2004,New York Yankees,LS
-2004,Los Angeles Angels,DS
-2004,Minnesota Twins,DS
-2004,Boston Red Sox,C
-2004,St. Louis Cardinals,WS
-2004,Atlanta Braves,DS
-2004,Los Angeles Dodgers,DS
-2004,Houston Astros,LS
-2005,Chicago White Sox,C
-2005,Los Angeles Angels,LS
-2005,New York Yankees,DS
-2005,Boston Red Sox,DS
-2005,St. Louis Cardinals,LS
-2005,Atlanta Braves,DS
-2005,San Diego Padres,DS
-2005,Houston Astros,WS
-2006,New York Yankees,DS
-2006,Minnesota Twins,DS
-2006,Oakland Athletics,LS
-2006,Detroit Tigers,WS
-2006,New York Mets,LS
-2006,San Diego Padres,DS
-2006,St. Louis Cardinals,C
-2006,Los Angeles Dodgers,DS
-2007,Boston Red Sox,C
-2007,Clevenad Indians,LS
-2007,Los Angeles Angels,DS
-2007,New York Yankees,DS
-2007,Arizona Diamondbacks,LS
-2007,Philadelphia Phillies,DS
-2007,Chicago Cubs,DS
-2007,Colorado Rockies,WS
-2008,Los Angeles Angels,DS
-2008,Tampa Bay Rays,WS
-2008,Chicago White Sox,DS
-2008,Boston Red Sox,LS
-2008,Chicago Cubs,DS
-2008,Philadelphia Phillies,C
-2008,Los Angeles Dodgers,LS
-2008,Milwaukee Brewers,DS
-2009,New York Yankees,C
-2009,Los Angeles Angels,LS
-2009,Minnesota Twins,DS
-2009,Boston Red Sox,DS
-2009,Los Angeles Dodgers,LS
-2009,Philadelphia Phillies,WS
-2009,St. Louis Cardinals,DS
-2009,Colorado Rockies,DS
-2010,Tampa Bay Rays,DS
-2010,Minnesota Twins,DS
-2010,Texas Rangers,WS
-2010,New York Yankees,LS
-2010,Philadelphia Phillies,LS
-2010,San Francisco Giants,C
-2010,cincinnati Reds,DS
-2010,Atlanta Braves,DS
-2011,New York Yankees,DS
-2011,Texas Rangers,WS
-2011,Detroit Tigers,LS
-2011,Tampa Bay Rays,DS
-2011,Philadelphia Phillies,DS
-2011,Milwaukee Brewers,LS
-2011,Arizona Diamondbacks,DS
-2011,St. Louis Cardinals,C
-2012,New York Yankees,LS
-2012,Oakland Athletics,DS
-2012,Detroit Tigers,WS
-2012,Texas Rangers,WC
-2012,Baltimore Orioles,DS
-2012,Washington Nationals,DS
-2012,cincinnati Reds,DS
-2012,San Francisco Giants,C
-2012,Atlanta Braves,WC
-2012,St. Louis Cardinals,LS
-2013,Boston Red Sox,C
-2013,Oakland Athletics,DS
-2013,Detroit Tigers,LS
-2013,Cleveland Indians,WC
-2013,Tampa Bay Rays,DS
-2013,St. Louis Cardinals,WS
-2013,Atlanta Braves,DS
-2013,Los Angeles Dodgers,LS
-2013,Pittsburgh Pirates,DS
-2013,cincinnati Reds,WC
-2014,Los Angeles Angels,DS
-2014,Baltimore Orioles,LS
-2014,Detroit Tigers,DS
-2014,Kansas City Royals,WS
-2014,Oakland Athletics,WC
-2014,Washington Nationals,DS
-2014,Los Angeles Dodgers,DS
-2014,St. Louis Cardinals,LS
-2014,Pittsburgh Pirates,WC
-2014,San Francisco Giants,C
-2015,Kansas City Royals,C
-2015,Toronto Blue Jays,LS
-2015,Texas Rangers,DS
-2015,New York Yankees,WC
-2015,Houston Astros,DS
-2015,St. Louis Cardinals,DS
-2015,Los Angeles Dodgers,DS
-2015,New York Mets,WS
-2015,Pittsburgh Pirates,WC
-2015,Chicago Cubs,LS
-2016,Texas Rangers,DS
-2016,Cleveland Indians,WS
-2016,Boston Red Sox,DS
-2016,Toronto Blue Jays,LS
-2016,Baltimore Orioles,WC
-2016,Chicago Cubs,C
-2016,Washington Nationals,DS
-2016,Los Angeles Dodgers,LS
-2016,New York Mets,WC
-2016,San Francisco Giants,DS
-2017,Cleveland Indians,DS
-2017,Houston Astros,C
-2017,Boston Red Sox,DS
-2017,New York Yankees,LS
-2017,Minnesota Twins,WC
-2017,Los Angeles Dodgers,WS
-2017,Washington Nationals,DS
-2017,Chicago Cubs,LS
-2017,Arizona Diamondbacks,DS
-2017,Colorado Rockies,WC
-2018,Boston Red Sox,C
-2018,Houston Astros,LS
-2018,Cleveland Indians,DS
-2018,New York Yankees,DS
-2018,Oakland Athletics,WC
-2018,Milwaukee Brewers,LS
-2018,Los Angeles Dodgers,WS
-2018,Atlanta Braves,DS
-2018,Chicago Cubs,WC
-2018,Colorado Rockies,DS
-2019,Houston Astros,WS
-2019,New York Yankees,LS
-2019,Minnesota Twins,DS
-2019,Oakland Athletics,WC
-2019,Tampa Bay Rays,DS
-2019,Los Angeles Dodgers,DS
-2019,Atlanta Braves,DS
-2019,St. Louis Cardinals,LS
-2019,Washington Nationals,C
-2019,Milwaukee Brewers,WC
-2020,Tampa Bay Rays,WS
-2020,Oakland Athletics,DS
-2020,Minnesota Twins,WC
-2020,Cleveland Indians,WC
-2020,New York Yankees,DS
-2020,Houston Astros,LS
-2020,Chicago White Sox,WC
-2020,Toronto Blue Jays,WC
-2020,Los Angeles Dodgers,C
-2020,Atlanta Braves,LS
-2020,Chicago Cubs,WC
-2020,San Diego Padres,DS
-2020,St. Louis Cardinals,WC
-2020,Miami Marlins,DS
-2020,cincinnati Reds,WC
-2020,Milwaukee Brewers,WC
-2021,Tampa Bay Rays,DS
-2021,Houston Astros,WS
-2021,Chicago White Sox,DS
-2021,Boston Red Sox,LS
-2021,New York Yankees,WC
-2021,San Francisco Giants,DS
-2021,Milwaukee Brewers,DS
-2021,Atlanta Braves,C
-2021,Los Angeles Dodgers,LS
-2021,St. Louis Cardinals,WC
-2022,Houston Astros,C
-2022,New York Yankees,LS
-2022,Cleveland Guardians,DS
-2022,Toronto Blue Jays,WC
-2022,Seattle Mariners,DS
-2022,Tampa Bay Rays,WC
-2022,Los Angeles Dodgers,DS
-2022,Atlanta Braves,DS
-2022,St. Louis Cardinals,WC
-2022,New York Mets,WC
-2022,San Diego Padres,LS
-2022,Philadelphia Phillies,WS
-2023,Baltimore Orioles,DS
-2023,Houston Astros,LS
-2023,Minnesota Twins,DS
-2023,Tampa Bay Rays,WC
-2023,Texas Rangers,C
-2023,Toronto Blue Jays,WC
-2023,Atlanta Braves,DS
-2023,Los Angeles Dodgers,DS
-2023,Milwaukee Brewers,WC
-2023,Philadelphia Phillies,LS
-2023,Miami Marlins,WC
-2023,Arizona Diamondbacks,WS
+Year,Team Name,Level of Success,Team
+1995,Boston Red Sox,DS,BOS
+1995,Cleveland Indians,WS,CLE
+1995,Seattle Mariners,LS,SEA
+1995,New York Yankees,DS,NYA
+1995,Atlanta Braves,C,ATL
+1995,Cincinnati Reds,LS,CIN
+1995,Los Angeles Dodgers,DS,LAN
+1995,Colorado Rockies,DS,COL
+1996,New York Yankees,C,NYA
+1996,Cleveland Indians,DS,CLE
+1996,Texas Rangers,DS,TEX
+1996,Baltimore Orioles,LS,BAL
+1996,Atlanta Braves,WS,ATL
+1996,St. Louis Cardinals,LS,SLN
+1996,San Diego Padres,DS,SDN
+1996,Los Angeles Dodgers,DS,LAN
+1997,Baltimore Orioles,LS,BAL
+1997,Cleveland Indians,WS,CLE
+1997,Seattle Mariners,DS,SEA
+1997,New York Yankees,DS,NYA
+1997,Atlanta Braves,LS,ATL
+1997,Houston Astros,DS,HOU
+1997,San Francisco Giants,DS,SFN
+1997,Florida Marlins,C,FLO
+1998,New York Yankees,C,NYA
+1998,Cleveland Indians,LS,CLE
+1998,Texas Rangers,DS,TEX
+1998,Boston Red Sox,DS,BOS
+1998,Atlanta Braves,LS,ATL
+1998,Houston Astros,DS,HOU
+1998,San Diego Padres,WS,SDN
+1998,Chicago Cubs,DS,CHN
+1999,New York Yankees,C,NYA
+1999,Cleveland Indians,DS,CLE
+1999,Texas Rangers,DS,TEX
+1999,Boston Red Sox,LS,BOS
+1999,Atlanta Braves,WS,ATL
+1999,Arizona Diamondbacks,DS,ARI
+1999,Houston Astros,DS,HOU
+1999,New York Mets,LS,NYN
+2000,Chicago White Sox,DS,CHA
+2000,Oakland Athletics,DS,OAK
+2000,New York Yankees,C,NYA
+2000,Seattle Mariners,LS,SEA
+2000,San Francisco Giants,DS,SFN
+2000,St. Louis Cardinals,LS,SLN
+2000,Atlanta Braves,DS,ATL
+2000,New York Mets,WS,NYN
+2001,Seattle Mariners,LS,SEA
+2001,Cleveland Indians,DS,CLE
+2001,New York Yankees,WS,NYA
+2001,Oakland Athletics,DS,OAK
+2001,Houston Astros,DS,HOU
+2001,Arizona Diamondbacks,C,ARI
+2001,Atlanta Braves,LS,ATL
+2001,St. Louis Cardinals,DS,SLN
+2002,New York Yankees,DS,NYA
+2002,Oakland Athletics,DS,OAK
+2002,Minnesota Twins,LS,MIN
+2002,Los Angeles Angels,C,ANA
+2002,Atlanta Braves,DS,ATL
+2002,Arizona Diamondbacks,DS,ARI
+2002,St. Louis Cardinals,LS,SLN
+2002,San Francisco Giants,WS,SFN
+2003,New York Yankees,WS,NYA
+2003,Oakland Athletics,DS,OAK
+2003,Minnesota Twins,DS,MIN
+2003,Boston Red Sox,LS,BOS
+2003,Atlanta Braves,DS,ATL
+2003,San Francisco Giants,DS,SFN
+2003,Chicago Cubs,LS,CHN
+2003,Florida Marlins,C,FLO
+2004,New York Yankees,LS,NYA
+2004,Los Angeles Angels,DS,ANA
+2004,Minnesota Twins,DS,MIN
+2004,Boston Red Sox,C,BOS
+2004,St. Louis Cardinals,WS,SLN
+2004,Atlanta Braves,DS,ATL
+2004,Los Angeles Dodgers,DS,LAN
+2004,Houston Astros,LS,HOU
+2005,Chicago White Sox,C,CHA
+2005,Los Angeles Angels,LS,ANA
+2005,New York Yankees,DS,NYA
+2005,Boston Red Sox,DS,BOS
+2005,St. Louis Cardinals,LS,SLN
+2005,Atlanta Braves,DS,ATL
+2005,San Diego Padres,DS,SDN
+2005,Houston Astros,WS,HOU
+2006,New York Yankees,DS,NYA
+2006,Minnesota Twins,DS,MIN
+2006,Oakland Athletics,LS,OAK
+2006,Detroit Tigers,WS,DET
+2006,New York Mets,LS,NYN
+2006,San Diego Padres,DS,SDN
+2006,St. Louis Cardinals,C,SLN
+2006,Los Angeles Dodgers,DS,LAN
+2007,Boston Red Sox,C,BOS
+2007,Cleveland Indians,LS,CLE
+2007,Los Angeles Angels,DS,ANA
+2007,New York Yankees,DS,NYA
+2007,Arizona Diamondbacks,LS,ARI
+2007,Philadelphia Phillies,DS,PHI
+2007,Chicago Cubs,DS,CHN
+2007,Colorado Rockies,WS,COL
+2008,Los Angeles Angels,DS,ANA
+2008,Tampa Bay Rays,WS,TBA
+2008,Chicago White Sox,DS,CHA
+2008,Boston Red Sox,LS,BOS
+2008,Chicago Cubs,DS,CHN
+2008,Philadelphia Phillies,C,PHI
+2008,Los Angeles Dodgers,LS,LAN
+2008,Milwaukee Brewers,DS,MIL
+2009,New York Yankees,C,NYA
+2009,Los Angeles Angels,LS,ANA
+2009,Minnesota Twins,DS,MIN
+2009,Boston Red Sox,DS,BOS
+2009,Los Angeles Dodgers,LS,LAN
+2009,Philadelphia Phillies,WS,PHI
+2009,St. Louis Cardinals,DS,SLN
+2009,Colorado Rockies,DS,COL
+2010,Tampa Bay Rays,DS,TBA
+2010,Minnesota Twins,DS,MIN
+2010,Texas Rangers,WS,TEX
+2010,New York Yankees,LS,NYA
+2010,Philadelphia Phillies,LS,PHI
+2010,San Francisco Giants,C,SFN
+2010,Cincinnati Reds,DS,CIN
+2010,Atlanta Braves,DS,ATL
+2011,New York Yankees,DS,NYA
+2011,Texas Rangers,WS,TEX
+2011,Detroit Tigers,LS,DET
+2011,Tampa Bay Rays,DS,TBA
+2011,Philadelphia Phillies,DS,PHI
+2011,Milwaukee Brewers,LS,MIL
+2011,Arizona Diamondbacks,DS,ARI
+2011,St. Louis Cardinals,C,SLN
+2012,New York Yankees,LS,NYA
+2012,Oakland Athletics,DS,OAK
+2012,Detroit Tigers,WS,DET
+2012,Texas Rangers,WC,TEX
+2012,Baltimore Orioles,DS,BAL
+2012,Washington Nationals,DS,WAS
+2012,Cincinnati Reds,DS,CIN
+2012,San Francisco Giants,C,SFN
+2012,Atlanta Braves,WC,ATL
+2012,St. Louis Cardinals,LS,SLN
+2013,Boston Red Sox,C,BOS
+2013,Oakland Athletics,DS,OAK
+2013,Detroit Tigers,LS,DET
+2013,Cleveland Indians,WC,CLE
+2013,Tampa Bay Rays,DS,TBA
+2013,St. Louis Cardinals,WS,SLN
+2013,Atlanta Braves,DS,ATL
+2013,Los Angeles Dodgers,LS,LAN
+2013,Pittsburgh Pirates,DS,PIT
+2013,Cincinnati Reds,WC,CIN
+2014,Los Angeles Angels,DS,ANA
+2014,Baltimore Orioles,LS,BAL
+2014,Detroit Tigers,DS,DET
+2014,Kansas City Royals,WS,KCA
+2014,Oakland Athletics,WC,OAK
+2014,Washington Nationals,DS,WAS
+2014,Los Angeles Dodgers,DS,LAN
+2014,St. Louis Cardinals,LS,SLN
+2014,Pittsburgh Pirates,WC,PIT
+2014,San Francisco Giants,C,SFN
+2015,Kansas City Royals,C,KCA
+2015,Toronto Blue Jays,LS,TOR
+2015,Texas Rangers,DS,TEX
+2015,New York Yankees,WC,NYA
+2015,Houston Astros,DS,HOU
+2015,St. Louis Cardinals,DS,SLN
+2015,Los Angeles Dodgers,DS,LAN
+2015,New York Mets,WS,NYN
+2015,Pittsburgh Pirates,WC,PIT
+2015,Chicago Cubs,LS,CHN
+2016,Texas Rangers,DS,TEX
+2016,Cleveland Indians,WS,CLE
+2016,Boston Red Sox,DS,BOS
+2016,Toronto Blue Jays,LS,TOR
+2016,Baltimore Orioles,WC,BAL
+2016,Chicago Cubs,C,CHN
+2016,Washington Nationals,DS,WAS
+2016,Los Angeles Dodgers,LS,LAN
+2016,New York Mets,WC,NYN
+2016,San Francisco Giants,DS,SFN
+2017,Cleveland Indians,DS,CLE
+2017,Houston Astros,C,HOU
+2017,Boston Red Sox,DS,BOS
+2017,New York Yankees,LS,NYA
+2017,Minnesota Twins,WC,MIN
+2017,Los Angeles Dodgers,WS,LAN
+2017,Washington Nationals,DS,WAS
+2017,Chicago Cubs,LS,CHN
+2017,Arizona Diamondbacks,DS,ARI
+2017,Colorado Rockies,WC,COL
+2018,Boston Red Sox,C,BOS
+2018,Houston Astros,LS,HOU
+2018,Cleveland Indians,DS,CLE
+2018,New York Yankees,DS,NYA
+2018,Oakland Athletics,WC,OAK
+2018,Milwaukee Brewers,LS,MIL
+2018,Los Angeles Dodgers,WS,LAN
+2018,Atlanta Braves,DS,ATL
+2018,Chicago Cubs,WC,CHN
+2018,Colorado Rockies,DS,COL
+2019,Houston Astros,WS,HOU
+2019,New York Yankees,LS,NYA
+2019,Minnesota Twins,DS,MIN
+2019,Oakland Athletics,WC,OAK
+2019,Tampa Bay Rays,DS,TBA
+2019,Los Angeles Dodgers,DS,LAN
+2019,Atlanta Braves,DS,ATL
+2019,St. Louis Cardinals,LS,SLN
+2019,Washington Nationals,C,WAS
+2019,Milwaukee Brewers,WC,MIL
+2020,Tampa Bay Rays,WS,TBA
+2020,Oakland Athletics,DS,OAK
+2020,Minnesota Twins,WC,MIN
+2020,Cleveland Indians,WC,CLE
+2020,New York Yankees,DS,NYA
+2020,Houston Astros,LS,HOU
+2020,Chicago White Sox,WC,CHA
+2020,Toronto Blue Jays,WC,TOR
+2020,Los Angeles Dodgers,C,LAN
+2020,Atlanta Braves,LS,ATL
+2020,Chicago Cubs,WC,CHN
+2020,San Diego Padres,DS,SDN
+2020,St. Louis Cardinals,WC,SLN
+2020,Miami Marlins,DS,MIA
+2020,Cincinnati Reds,WC,CIN
+2020,Milwaukee Brewers,WC,MIL
+2021,Tampa Bay Rays,DS,TBA
+2021,Houston Astros,WS,HOU
+2021,Chicago White Sox,DS,CHA
+2021,Boston Red Sox,LS,BOS
+2021,New York Yankees,WC,NYA
+2021,San Francisco Giants,DS,SFN
+2021,Milwaukee Brewers,DS,MIL
+2021,Atlanta Braves,C,ATL
+2021,Los Angeles Dodgers,LS,LAN
+2021,St. Louis Cardinals,WC,SLN
+2022,Houston Astros,C,HOU
+2022,New York Yankees,LS,NYA
+2022,Cleveland Guardians,DS,CLE
+2022,Toronto Blue Jays,WC,TOR
+2022,Seattle Mariners,DS,SEA
+2022,Tampa Bay Rays,WC,TBA
+2022,Los Angeles Dodgers,DS,LAN
+2022,Atlanta Braves,DS,ATL
+2022,St. Louis Cardinals,WC,SLN
+2022,New York Mets,WC,NYN
+2022,San Diego Padres,LS,SDN
+2022,Philadelphia Phillies,WS,PHI
+2023,Baltimore Orioles,DS,BAL
+2023,Houston Astros,LS,HOU
+2023,Minnesota Twins,DS,MIN
+2023,Tampa Bay Rays,WC,TBA
+2023,Texas Rangers,C,TEX
+2023,Toronto Blue Jays,WC,TOR
+2023,Atlanta Braves,DS,ATL
+2023,Los Angeles Dodgers,DS,LAN
+2023,Milwaukee Brewers,WC,MIL
+2023,Philadelphia Phillies,LS,PHI
+2023,Miami Marlins,WC,MIA
+2023,Arizona Diamondbacks,WS,ARI
