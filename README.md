@@ -1,5 +1,5 @@
 # baseball-postseason
-A machine learning project for Stat 486 about predicting postseason success in the MLB from regular season data.
+## A machine learning project for Stat 486 about predicting postseason success in the MLB from regular season data.
 
 This repository contains scripts to process data for a pre-defined list of teams. This list of teams includes every team which has made the postseason since 1995.
 Curated data is saved in applicalbe .pkl files.
